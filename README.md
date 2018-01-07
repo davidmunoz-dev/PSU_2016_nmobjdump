@@ -52,7 +52,8 @@ Running project
 
 ## Screenshot
 
-![Screenshot](screenshot/screen.png)
+![Screenshot](screenshot/screen_nm.png)
+![Screenshot](screenshot/screen_obj.png)
 
 ## Build with
 
